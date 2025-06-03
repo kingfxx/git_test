@@ -22,7 +22,7 @@
 
 ### [Infinite Nudge 无限细推](https://ficsit.app/mod/InfiniteNudge)  
 ![](https://storage.ficsit.app/file/smr-prod-s3/images/mods/6NPiStuTSpPVqp/logo.webp)
-无限细推模式, 可以在建造时按住H以后精调建筑的位置,可以上下移动,没有限制,没有这个mod基本上就告别大规模建造和造景  
+无限细推模式, 可以在建造时按住H以后精调建筑的位置,可以上下移动,没有距离限制,这个mod可以让你的大规模建造和造景如虎添翼,没有它我都不知道怎么建我的全图铁路系统  
 
 **推荐等级**: ★★★★★ (必装)
 
